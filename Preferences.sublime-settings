@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Better CoffeeScript",
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+  	"auto_complete_commit_on_tab": true,
+  	"highlight_line": true,
+  	"highlight_modified_tabs": true
+}
