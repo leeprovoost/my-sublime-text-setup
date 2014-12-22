@@ -2,13 +2,13 @@
 
 ## Plugins
 
-GitGutter
-SidebarEnhancements
-Git
-BracketHighlighter
-Alignment
-GoSublime
-IndentXML
+* GitGutter
+* SidebarEnhancements
+* Git
+* BracketHighlighter
+* Alignment
+* GoSublime
+* IndentXML
 
 ## Settings - User
 
